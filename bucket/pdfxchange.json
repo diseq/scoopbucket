@@ -1,0 +1,36 @@
+{
+    "version": "8.0.341.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://www.docu-track.co.uk/builds/8.0.341.0/EditorV8.x64.msi",
+            "hash": "7bb09829a64808d108f68d8531b502620e234de83ca955a89f5de19af75bdcad"
+        }
+    },
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\portable.dat\")) {",
+        "    New-Item \"$dir\\portable.dat\" -Type File | Out-Null",
+        "}",
+        "if (!(Test-Path \"$persist_dir\\settings.dat\")) {",
+        "    New-Item \"$dir\\settings.dat\" -Type File | Out-Null",
+        "}"
+    ],
+    "persist": [
+        "settings.dat",
+        "portable.dat"
+    ],
+    "extract_dir": "Tracker Software/PDF Editor",
+    "bin": "PDFXEdit.exe",
+    "shortcuts": [
+        [
+            "PDFXEdit.exe",
+            "PdfXchange Editor"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.tracker-software.com/product/pdf-xchange-editor/history",
+        "re": "version (?<version>[\\d.]+) release"
+    },
+    "autoupdate": {
+        "url": "http://www.docu-track.co.uk/builds/$version/EditorV8.x64.msi"
+    }
+}

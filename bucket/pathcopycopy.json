@@ -1,0 +1,25 @@
+{
+    "homepage": "https://github.com/clechasseur/pathcopycopy",
+    "version": "19.0",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/clechasseur/pathcopycopy/releases/download/v19.0/PathCopyCopy19.0.exe",
+            "hash": "8251c175febfe4342c954cd27c7f684d1a7edba5ad6ee09841c61f884d46ee09"
+        }
+    },
+    "innosetup": true,
+    "checkver": {
+        "github": "https://github.com/clechasseur/pathcopycopy"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/clechasseur/pathcopycopy/releases/download/v$version/PathCopyCopy$version.exe",
+                "hash": {
+                    "url": "$url.sha256"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "version": "2020.08.17.00",
+    "url": "https://github.com/facebook/watchman/releases/download/v2020.08.17.00/watchman-v2020.08.17.00-windows.zip",
+    "hash": "b778c472dd4e93dc989dadfd7b05457b6afeb6cf1242bec4f03361c1865e09d7",
+    "bin": "watchman.exe",
+    "extract_dir": "watchman-v2020.08.17.00-windows/bin",
+    "checkver": {
+        "github": "https://github.com/facebook/watchman"
+    },
+    "autoupdate": {
+        "url": "https://github.com/facebook/watchman/releases/download/v$version/watchman-v$version-windows.zip",
+        "extract_dir": "watchman-v$version-windows/bin"
+    }
+}

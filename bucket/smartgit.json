@@ -1,0 +1,55 @@
+{
+    "version": "20.1.5",
+    "description": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
+    "homepage": "https://www.syntevo.com/smartgit/",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://www.syntevo.com/documents/smartgit-license.html"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://www.syntevo.com/downloads/smartgit/smartgit-portable-20_1_5.7z",
+            "hash": "sha1:716ef52ab6495389357b8c49d94e2dc924a09fba",
+            "extract_dir": "SmartGit",
+            "bin": [
+                [
+                    "bin\\smartgitc.exe",
+                    "smartgit-plain"
+                ],
+                [
+                    "powershell.exe",
+                    "smartgit",
+                    "c:\\apps\\apps\\msys2\\current\\usr\\bin\\mintty.exe -w hide /bin/env MSYSTEM=MINGW64 /bin/bash -l -c /C/apps/apps/smartgit/current/bin/smartgitc.exe"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "bin\\smartgit.exe",
+                    "SmartGit-plain"
+                ],
+                [
+                    "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                    "SmartGit",
+                    "c:\\apps\\apps\\msys2\\current\\usr\\bin\\mintty.exe -w hide /bin/env MSYSTEM=MINGW64 /bin/bash -l -c /C/apps/apps/smartgit/current/bin/smartgitc.exe",
+                    "bin\\smartgit.exe"
+                ]
+            ]
+        }
+    },
+    "persist": ".settings",
+    "checkver": {
+        "url": "https://www.syntevo.com/smartgit/changelog.txt",
+        "regex": "([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.syntevo.com/downloads/smartgit/smartgit-portable-$underscoreVersion.7z",
+                "hash": {
+                    "url": "https://www.syntevo.com/smartgit/download/",
+                    "regex": "$basename[\\S\\s]+?$sha1"
+                }
+            }
+        }
+    }
+}
