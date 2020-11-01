@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/Rookiestyle/KeePassOTP",
-    "version": "0.19",
+    "version": "0.19.1",
     "license": "Unknown",
-    "url": "https://github.com/Rookiestyle/KeePassOTP/releases/download/v0.19/KeePassOTP.plgx",
-    "hash": "73b7ee0daa4dce228c60a871cf6f9a84de9476a15f4e3546498a69c24efb2656",
+    "url": "https://github.com/Rookiestyle/KeePassOTP/releases/download/v0.19.1/KeePassOTP.plgx",
+    "hash": "c8fed539da08b6450bf09927340855c1223eb62d1e5686eb6d4661799d22eaf1",
     "checkver": {
         "github": "https://github.com/Rookiestyle/KeePassOTP"
     },
