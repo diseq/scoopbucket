@@ -1,5 +1,5 @@
 {
-    "version": "20.1.5",
+    "version": "20.2",
     "description": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
     "homepage": "https://www.syntevo.com/smartgit/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.syntevo.com/downloads/smartgit/smartgit-portable-20_1_5.7z",
-            "hash": "sha1:716ef52ab6495389357b8c49d94e2dc924a09fba",
+            "url": "https://www.syntevo.com/downloads/smartgit/smartgit-portable-20_2.7z",
+            "hash": "508dec25ecc68a7bdf4dacf4e7e40c0828bab0a22572d4490e77c78d76fa1731",
             "extract_dir": "SmartGit",
             "bin": [
                 [
