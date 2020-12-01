@@ -1,7 +1,7 @@
 {
-    "version": "1.11.1",
-    "url": "https://github.com/profclems/glab/releases/download/v1.11.1/glab_1.11.1_Windows_x86_64.tar.gz",
-    "hash": "bbedce4acc6df7be46e65143aff19ec4ba6348999e19cf7c745663e17d439453",
+    "version": "1.12.0",
+    "url": "https://github.com/profclems/glab/releases/download/v1.12.0/glab_1.12.0_Windows_x86_64.tar.gz",
+    "hash": "1447b715add9e4762df8fac6ca4e1e7d146087aebdd52a47faaa8ad2994ac0ea",
     "bin": "bin/glab.exe",
     "checkver": {
         "github": "https://github.com/profclems/glab"
