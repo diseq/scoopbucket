@@ -1,9 +1,9 @@
 {
-    "version": "2021.01.04.00",
-    "url": "https://github.com/facebook/watchman/releases/download/v2021.01.04.00/watchman-v2021.01.04.00-windows.zip",
-    "hash": "c18d7888129f819b4db5319a8514dd95dc5aa27ac81ac789ea64215baf072353",
+    "version": "2021.01.11.00",
+    "url": "https://github.com/facebook/watchman/releases/download/v2021.01.11.00/watchman-v2021.01.11.00-windows.zip",
+    "hash": "c5be1c0e3063cbb72a193e2448fb45107d6d70f92c380175f24a96b8ff381f14",
     "bin": "watchman.exe",
-    "extract_dir": "watchman-v2021.01.04.00-windows/bin",
+    "extract_dir": "watchman-v2021.01.11.00-windows/bin",
     "checkver": {
         "github": "https://github.com/facebook/watchman"
     },
