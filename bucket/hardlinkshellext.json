@@ -1,10 +1,10 @@
 {
     "homepage": "https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html",
     "description": "Hard link shell extension",
-    "version": "3.9.3.4",
+    "version": "3.9.3.5",
     "license": "Unknown",
     "url": "http://schinagl.priv.at/nt/hardlinkshellext/HardLinkShellExt_X64.exe#/dl.7z",
-    "hash": "032db48f2c84011dd65d141cc52f00528883e7257a946f77143a957f5ca3fe9a",
+    "hash": "ca3f26ebf49dc4ea8b5d8c0154acca0de59a8689e5907fe748ffaeaa357ff3a0",
     "checkver": {
         "url": "https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html",
         "re": "Version ([\\d.]+)"
