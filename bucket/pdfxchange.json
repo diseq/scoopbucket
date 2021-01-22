@@ -1,9 +1,9 @@
 {
-    "version": "9.0.350.0",
+    "version": "9.0.351.0",
     "architecture": {
         "64bit": {
-            "url": "http://www.docu-track.co.uk/builds/9.0.350.0/EditorV8.x64.msi",
-            "hash": "57e0221149adc67fe5022ce9c5f5cfcc71c953ceddc4175588a5967e08887e42"
+            "url": "http://www.docu-track.co.uk/builds/9.0.351.0/EditorV8.x64.msi",
+            "hash": "02923450c7d781c797b9b9a5bd31a046a1dad1f71d2c4f06e43986f97beebff1"
         }
     },
     "pre_install": [
