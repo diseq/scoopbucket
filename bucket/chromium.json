@@ -8,12 +8,12 @@
         "64bit": {
             "url": "https://github.com/macchrome/winchrome/releases/download/v88.0.4324.150-r827102-Win64/ungoogled-chromium-88.0.4324.150-1_Win64.7z",
             "hash": "sha1:082a8f424bf11fd6059f5ff70ad9e98cdff3ef45",
-            "extract_dir": "ungoogled-chromium-88.0.4324.150-2_Win64"
+            "extract_dir": "ungoogled-chromium-88.0.4324.150-1_Win64"
         },
         "32bit": {
             "url": "https://github.com/macchrome/winchrome/releases/download/v88.0.4324.150-r827102-Win64/Ungoogled-Chromium-88.0.4324.150-1_Win32.7z",
             "hash": "sha1:12c96043ea816d93b66099beae44773c6ad0f778",
-            "extract_dir": "Ungoogled-Chromium-88.0.4324.150-2_Win32"
+            "extract_dir": "Ungoogled-Chromium-88.0.4324.150-1_Win32"
         }
     },
     "bin": [
