@@ -3,7 +3,7 @@
     "version": "0.26",
     "license": "Unknown",
     "url": "https://github.com/Rookiestyle/KeePassOTP/releases/download/v0.26/KeePassOTP.plgx",
-    "hash": "2f210741a09dac2bb9de37915c4eb02a59e89763795dcd34bc803966873b7bf9",
+    "hash": "1e84ec4485f4377274f94947434e38b2c9f4fd2c8343bb4026d4d389712fd3ce",
     "checkver": {
         "github": "https://github.com/Rookiestyle/KeePassOTP"
     },

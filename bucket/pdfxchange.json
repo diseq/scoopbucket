@@ -3,7 +3,7 @@
     "architecture": {
         "64bit": {
             "url": "http://www.docu-track.co.uk/builds/9.0.352.0/EditorV8.x64.msi",
-            "hash": "b96cbf01b0f03b715aa6bace02cc52f57afa378081827a79593be23807e7c128"
+            "hash": "7c96017e8a881e45576be335275c433c02a4d84b59e530bc7ba7252ad2327efa"
         }
     },
     "pre_install": [
