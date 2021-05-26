@@ -1,0 +1,12 @@
+{
+    "version": "1.2.0",
+    "url": "https://github.com/BlackReloaded/wsl2-ssh-pageant/releases/download/v1.2.0/wsl2-ssh-pageant.exe",
+    "hash": "fe2294b050b70454bb038ec7b94a8357c45f8d3d4c505a4f374e4a495bfcaf27",
+    "bin": "wsl2-ssh-pageant.exe",
+    "checkver": {
+        "github": "https://github.com/BlackReloaded/wsl2-ssh-pageant"
+    },
+    "autoupdate": {
+        "url": "https://github.com/BlackReloaded/wsl2-ssh-pageant/releases/download/v$version/wsl2-ssh-pageant.exe"
+    }
+}
