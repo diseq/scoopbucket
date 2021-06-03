@@ -1,8 +1,8 @@
 {
-    "version": "0.74.63",
+    "version": "0.75.64",
     "url": "http://www.smartcard-auth.de/download/pageant.exe#/pageant-sc.exe",
     "bin": "pageant-sc.exe",
-    "hash": "afc40982fcc175a5405effe8c5ca34d2b8095205036d2088ada5926cb77ef63e",
+    "hash": "bc6b078dfd257a0ffea6523379879cf772da0178f616248626a2bf07d7793148",
     "checkver": {
         "url": "https://www.smartcard-auth.de/download-en.html",
         "re": "\\(Version (?<version>[\\d.]+),"
