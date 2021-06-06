@@ -1,0 +1,12 @@
+{
+    "version": "4.4.1",
+    "url": "https://github.com/M2Team/Privexec/releases/download/4.4.1/Privexec-4.4.1-win-x64.zip",
+    "hash": "0d0422f87efc5a2d9092d71ee3635facda944d39bed0627f9ab6c1a306df32ce",
+    "bin": [ "privexec.exe", "wsudo.exe", "wsudo-bridge.exe", "appexec.exe" ],
+    "checkver": {
+        "github": "https://github.com/M2Team/Privexec"
+    },
+    "autoupdate": {
+        "url": "https://github.com/M2Team/Privexec/releases/download/$version/Privexec-$version-win-x64.zip"
+    }
+}
