@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/Azure/aks-engine",
-    "version": "0.65.1",
+    "version": "0.66.0",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Azure/aks-engine/releases/download/v0.65.1/aks-engine-v0.65.1-windows-amd64.tar.gz",
-            "extract_dir": "aks-engine-v0.65.1-windows-amd64",
-            "hash": "32b3791c8ca98a825f247f9b78f8ca1f62362c81507d6fb85e2246d76f94304a"
+            "url": "https://github.com/Azure/aks-engine/releases/download/v0.66.0/aks-engine-v0.66.0-windows-amd64.tar.gz",
+            "extract_dir": "aks-engine-v0.66.0-windows-amd64",
+            "hash": "f803604a661c8f75500dc2c138034d8d8328f6bc5752f03acfa44081f003044e"
         }
     },
     "bin": "aks-engine.exe",
