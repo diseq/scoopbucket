@@ -4,9 +4,9 @@
     "homepage": "https://keepass.info",
     "license": "GPL-2.0-or-later",
     "url": "https://downloads.sourceforge.net/project/keepass/KeePass%202.x/2.50/KeePass-2.50.zip",
-    "hash": "251a85b3bac687974f360d3796048c20ded3bf0bd69e0d1cfd1db23d013f89ed",
     "pre_install": "if (-Not (Test-Path \"$dir\\KeePass.config.xml\")) { New-Item \"$dir\\KeePass.config.xml\" -ItemType file }",
     "bin": "KeePass.exe",
+    "hash": "sha1:e842d0291a3a94a6ea1b71f84ce1fc4419d7551f",
     "shortcuts": [
         [
             "KeePass.exe",
