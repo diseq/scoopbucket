@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/jay0lee/GAM",
-    "version": "6.16",
+    "version": "6.17",
     "license": "GPL",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jay0lee/GAM/releases/download/v6.16/gam-6.16-windows-x86_64.zip",
-            "hash": "9d9035d1c29c16f47e132e230283113beab2d590fd5ba8fb32ab0a683adb8922"
+            "url": "https://github.com/jay0lee/GAM/releases/download/v6.17/gam-6.17-windows-x86_64.zip",
+            "hash": "518ed284439384466901f6c635cf62331cfd4d7c99e401edfaee22a49970b0c3"
         }
     },
     "bin": "gam.exe",
