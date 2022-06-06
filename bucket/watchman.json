@@ -1,9 +1,9 @@
 {
-    "version": "2022.05.30.00",
-    "url": "https://github.com/facebook/watchman/releases/download/v2022.05.30.00/watchman-v2022.05.30.00-windows.zip",
-    "hash": "d51fc3f5415cce7c5523c9ee7a8a803115af2caf32e5388b492f626b734e789f",
+    "version": "2022.06.06.00",
+    "url": "https://github.com/facebook/watchman/releases/download/v2022.06.06.00/watchman-v2022.06.06.00-windows.zip",
+    "hash": "af5f3cbd20d47a43bddf4db3bcf01a5a0e5c31e50c66ce81c89a2a407c8f8aa2",
     "bin": "watchman.exe",
-    "extract_dir": "watchman-v2022.05.30.00-windows/bin",
+    "extract_dir": "watchman-v2022.06.06.00-windows/bin",
     "checkver": {
         "github": "https://github.com/facebook/watchman"
     },
