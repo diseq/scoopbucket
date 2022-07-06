@@ -17,3 +17,4 @@ jobs:
         GITH_EMAIL: ${{ secrets.GITH_EMAIL }}
         GITHUB_TOKEN: ${{ secrets.GITH_TOKEN }}
         SKIP_UPDATED: '1'
+        SCOOP_BRANCH: master
