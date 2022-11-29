@@ -1,9 +1,9 @@
 {
-    "version": "9.4.364.0",
+    "version": "9.5.365.0",
     "architecture": {
         "64bit": {
             "url": "https://downloads.pdf-xchange.com/EditorV9.x64.msi",
-            "hash": "47b36670cdd2cffb92eae66e87c275c16531e7b06a6352a5bfe202597aa0e4d1"
+            "hash": "b940a5af9f4c2319e333cc25b4b6fc399b9d8de50da2c6b432376890ab679d6c"
         }
     },
     "installer": {
