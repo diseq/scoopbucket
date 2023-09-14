@@ -1,11 +1,11 @@
 {
     "homepage": "https://azure.microsoft.com/en-us/features/storage-explorer/",
     "description": "Easily manage the contents of your Azure storage account.",
-    "version": "1.29.0",
+    "version": "1.31.1",
     "license": "Unknown",
     "innosetup": true,
-    "url": "https://download.microsoft.com/download/A/E/3/AE32C485-B62B-4437-92F7-8B6B2C48CB40/StorageExplorer.exe#/storageexplorer_installer.exe",
-    "hash": "b19d61a5ed4323e59ec35475f18c104ee41ebd81d6062346ffc4e83b99d4858e",
+    "url": "https://download.microsoft.com/download/A/E/3/AE32C485-B62B-4437-92F7-8B6B2C48CB40/StorageExplorer-windows-x64.exe",
+    "hash": "9160fe61df25ddcb2ef12678821f76c0178fe09bd5eed3b7f93419819b39b4c4",
     "bin": "storageexplorer.exe",
     "shortcuts": [
         [
@@ -18,6 +18,6 @@
         "re": "Version ([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://download.microsoft.com/download/A/E/3/AE32C485-B62B-4437-92F7-8B6B2C48CB40/StorageExplorer.exe#/storageexplorer_installer.exe"
+        "url": "https://download.microsoft.com/download/A/E/3/AE32C485-B62B-4437-92F7-8B6B2C48CB40/StorageExplorer-windows-x64.exe"
     }
 }
