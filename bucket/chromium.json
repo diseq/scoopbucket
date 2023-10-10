@@ -28,7 +28,7 @@
     ],
     "persist": "User Data",
     "checkver": {
-        "github": "https://github.com/macchrome/winchrome",
+        "url": "https://api.github.com/repos/macchrome/winchrome/releases/latest",
         "regex": "/v(?<chromeVersion>[\\d.]+)-M(?<versionb>[\\d.]+)-r(?<build>[\\d]+)-Win64/ungoogled-chromium-[\\d.]+-(?<suffix>\\d)_Win(32|64)\\.7z",
         "replace": "${chromeVersion}-${suffix}-r${build}",
         "reverse": true
