@@ -1,5 +1,5 @@
 {
-    "version": "0.76.65",
+    "version": "0.76.64",
     "url": "http://www.smartcard-auth.de/download/pageant.exe#/pageant-sc.exe",
     "bin": "pageant-sc.exe",
     "hash": "f7ff1e7d9b8914d842bc13b7869e04f2d199e13878a791acaeefd40ab6718629",
