@@ -74,7 +74,7 @@
         "script": "Start-Process \"$dir\\UX\\AutoHotkeyUX.exe\" -ArgumentList @('/script', \"`\"$dir\\UX\\install.ahk`\"\", '/uninstall', '/silent') -Wait"
     },
     "checkver": {
-        "url": "https://github.com/AutoHotkey/AutoHotkey",
+        "github": "https://github.com/AutoHotkey/AutoHotkey",
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
