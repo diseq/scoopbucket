@@ -75,7 +75,7 @@
     },
     "checkver": {
         "url": "https://github.com/AutoHotkey/AutoHotkey",
-        "regex": "([\\d.]+)"
+        "regex": "v([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v$version/AutoHotkey_$version.zip"
