@@ -2,9 +2,9 @@
     "homepage": "https://lechnology.com/software/keeagent/",
     "description": "Plugin for KeePass 2.x that allows SSH keys stored in a KeePass database to be used for SSH authentication by other programs.",
     "license": "GPL-2.0-only",
-    "version": "0.13.6",
-    "url": "https://github.com/dlech/KeeAgent/releases/download/v0.13.6/KeeAgent_v0.13.6.zip",
-    "hash": "e4797c7d7f6b341da879e0075099cdd4548d910ef2e54867037d12fe0cb1318b",
+    "version": "0.13.7",
+    "url": "https://github.com/dlech/KeeAgent/releases/download/v0.13.7/KeeAgent_v0.13.7.zip",
+    "hash": "6151829ecba2fce726e4cdb28adcfb609df1c97b45d0acae4922ca721ccafe49",
     "depends": "diseq/keepass",
     "checkver": {
         "url": "https://api.github.com/repos/dlech/KeeAgent/tags",
