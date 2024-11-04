@@ -1,9 +1,9 @@
 {
-    "version": "2024.10.28.00",
-    "url": "https://github.com/facebook/watchman/releases/download/v2024.10.28.00/watchman-v2024.10.28.00-windows.zip",
-    "hash": "5f9dca2a5dfaf2b17a130d4c4cef7df1b53573c52b817223c743d6ac4449523b",
+    "version": "2024.11.04.00",
+    "url": "https://github.com/facebook/watchman/releases/download/v2024.11.04.00/watchman-v2024.11.04.00-windows.zip",
+    "hash": "9dd60572cf86032a91da5ae809daad010c856c422074a6ae940c138b235ee1ff",
     "bin": "watchman.exe",
-    "extract_dir": "watchman-v2024.10.28.00-windows/bin",
+    "extract_dir": "watchman-v2024.11.04.00-windows/bin",
     "checkver": {
         "github": "https://github.com/facebook/watchman"
     },
