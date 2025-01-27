@@ -1,9 +1,9 @@
 {
-    "version": "2025.01.13.00",
-    "url": "https://github.com/facebook/watchman/releases/download/v2025.01.13.00/watchman-v2025.01.13.00-windows.zip",
-    "hash": "824434805db43d1be1f72fe58728369a907d493a599e8ae2551d7c026312eea0",
+    "version": "2025.01.27.00",
+    "url": "https://github.com/facebook/watchman/releases/download/v2025.01.27.00/watchman-v2025.01.27.00-windows.zip",
+    "hash": "f2a07cbb7cf4c1f11bd2cf5a866bbecdd661c79d29a0ed5722d550cbfdc8a655",
     "bin": "watchman.exe",
-    "extract_dir": "watchman-v2025.01.13.00-windows/bin",
+    "extract_dir": "watchman-v2025.01.27.00-windows/bin",
     "checkver": {
         "github": "https://github.com/facebook/watchman"
     },
