@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/jay0lee/GAM",
-    "version": "7.25.00",
+    "version": "7.25.01",
     "license": "GPL",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jay0lee/GAM/releases/download/v7.25.00/gam-7.25.00-windows-x86_64.zip",
-            "hash": "cf2499104899fd4fe49ebe780b81329cb255f0a9a5bd7fa90a1e528cbe7636e6"
+            "url": "https://github.com/jay0lee/GAM/releases/download/v7.25.01/gam-7.25.01-windows-x86_64.zip",
+            "hash": "5555e97b36532336adf7560dcbf9df5890586dee1241be6c9623d10818abd40e"
         }
     },
     "bin": "gam.exe",
