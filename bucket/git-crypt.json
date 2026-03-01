@@ -28,8 +28,8 @@
     },
     "bin": "git-crypt.exe",
     "checkver": {
-        "url": "https://repo.msys2.org/msys/x86_64/",
-        "regex": "git-crypt-([\\d.]+-\\d+)-x86_64\\.pkg\\.tar\\.zst(?=\\s)"
+        "url": "https://packages.msys2.org/package/git-crypt?repo=msys&variant=x86_64",
+        "regex": "git-crypt-([\\d.]+-\\d+)-x86_64\\.pkg\\.tar\\.zst"
     },
     "autoupdate": {
         "architecture": {
