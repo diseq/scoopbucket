@@ -1,5 +1,5 @@
 {
-    "version": "0.8.0-1",
+    "version": "0.7.0-4",
     "description": "Transparent file encryption in git",
     "homepage": "https://www.agwa.name/projects/git-crypt/",
     "license": "GPL-3.0-only",
@@ -7,13 +7,13 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://repo.msys2.org/msys/x86_64/git-crypt-0.8.0-1-x86_64.pkg.tar.zst",
+                "https://repo.msys2.org/msys/x86_64/git-crypt-0.7.0-4-x86_64.pkg.tar.zst",
                 "https://repo.msys2.org/msys/x86_64/gcc-libs-15.2.0-1-x86_64.pkg.tar.zst",
                 "https://repo.msys2.org/msys/x86_64/libopenssl-3.6.1-1-x86_64.pkg.tar.zst",
                 "https://repo.msys2.org/msys/x86_64/msys2-runtime-3.6.6-1-x86_64.pkg.tar.zst"
             ],
             "hash": [
-                "77d23b023b7e7891f2352becd790d8c5eb9e940575ea7b3707bbfee5f08f0fa6",
+                "3ee4a4a394c33a79be3759a3734e815dc08ba9aa415e90586e62990e3f576895",
                 "d77e7228e596283cb5fbdcba67bbf9c3abd4bc3e21fc225a9752c0c8cdc8b91d",
                 "81e8ee82ab6ef194cb0a5fa99d99b746967f601c18f3641730b43f464fa4f76c",
                 "df86d093dac62e49619f9e4ad5309e5be88860b72c34737133df888673c17c01"
