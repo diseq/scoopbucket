@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FancyWM/fancywm/releases/download/v$version/FancyWM.Release.x64.zip",
+            "url": "https://github.com/FancyWM/fancywm/releases/download/v2.18.5/FancyWM.Release.x64.zip",
             "hash": "3D17A148F411CBE483E99680FDF28BB0FB3252151FA7C0D20ED0B090D79B5AA9"
         }
     },
